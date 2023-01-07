@@ -1,0 +1,23 @@
+#nav-search::-webkit-input-placeholder {
+    color:#f0ad4e;}
+    
+#mainBox::-webkit-input-placeholder {
+    color:#f0ad4e;}
+
+#logo{
+    height:40px;
+}
+
+.logoText{
+    display:inline;
+}
+
+#dismissButton{
+   position: absolute;
+   right: 5%;
+}
+
+#alertBoxMain{
+    height: auto;
+    width:auto;
+}
